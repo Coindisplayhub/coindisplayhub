@@ -24,14 +24,6 @@ Institutional-grade cryptocurrency research and analysis, delivered in 14 langua
 - Regulatory developments and institutional adoption trends
 - Security audits and hackathon integrity research
 
-### Technology
-
-Next.js · TypeScript · PostgreSQL · TON Connect · Multi-chain wallet integration · PWA
-
-### Open Source
-
-**[Hackathon Integrity Framework](https://github.com/Coindisplayhub/hackathon-integrity-framework)** — Open standard for hackathon submission integrity. 10-point security checklist, EvidenceVault smart contract, forensic templates. CC BY 4.0.
-
 ### Security
 
 See [SECURITY.md](SECURITY.md) for our responsible disclosure policy.
