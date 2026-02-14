@@ -14,7 +14,7 @@
 
 Institutional-grade cryptocurrency research and analysis, delivered in 14 languages. Real-time market data, blockchain analytics, and premium content for investors and traders worldwide.
 
-**14 languages** · **1,232 localized pages** · **Real-time market data** · **Multi-chain integration**
+**14 languages** · **Real-time market data** · **Multi-chain integration**
 
 ### Coverage
 
