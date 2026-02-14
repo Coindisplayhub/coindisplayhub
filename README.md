@@ -38,5 +38,5 @@ See [SECURITY.md](SECURITY.md) for our responsible disclosure policy.
 ---
 
 <div align="center">
-<sub>MIT License · Since 2025</sub>
+<sub>Since 2025</sub>
 </div>
