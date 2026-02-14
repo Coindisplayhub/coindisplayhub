@@ -1,46 +1,51 @@
-![COINDISPLAYHUB Banner](https://pbs.twimg.com/profile_banners/1692388977926414336/1692340757/1500x500)
+<div align="center">
+
+![COINDISPLAYHUB](https://pbs.twimg.com/profile_banners/1692388977926414336/1692340757/1500x500)
 
 # COINDISPLAYHUB
 
-**Premium cryptocurrency news platform with Bitcoin analysis and real-time market insights.**
+**Premium cryptocurrency news and market intelligence**
 
-![Website](https://img.shields.io/website?url=https%3A//coindisplayhub.com&style=flat-square&color=black)
+[coindisplayhub.com](https://www.coindisplayhub.com) · [@Coindisplayhub](https://x.com/Coindisplayhub) · [Telegram](https://t.me/Coindisplayhub)
 
----
-
-## About
-
-COINDISPLAYHUB delivers professional cryptocurrency analysis with focus on Bitcoin price forecasting, market trends, and blockchain insights for serious investors and traders.
-
-**Our Services:**
-- **Bitcoin Price Analysis** — Advanced forecasting through February 2026
-- **Real-time Market Data** — Live cryptocurrency prices and trends
-- **Premium Content** — Exclusive research and market insights
-- **Global Market Hours** — Professional trading tools and charts
+</div>
 
 ---
 
-## Current Focus
+Institutional-grade cryptocurrency research and analysis, delivered in 14 languages. Real-time market data, blockchain analytics, and premium content for investors and traders worldwide.
 
-**Bitcoin Support Zone Analysis (May 2025 - February 2026)**
+**14 languages** · **1,232 localized pages** · **Real-time market data** · **Multi-chain integration**
 
-Our latest research examines Bitcoin's potential support levels, factoring in Federal Reserve rate decisions and institutional market dynamics. Premium subscribers receive detailed monthly forecasts and real-time alerts.
+### Coverage
 
----
+- Bitcoin and altcoin price analysis with long-term forecasting
+- DeFi protocol research and risk assessment
+- Blockchain network analysis — Ethereum, Solana, TON, Conflux
+- Regulatory developments and institutional adoption trends
+- Security audits and hackathon integrity research
 
-## Connect
+### Technology
 
-**Website:** [coindisplayhub.com](https://coindisplayhub.com)  
-**Twitter:** [@Coindisplayhub](https://x.com/Coindisplayhub)  
-**Telegram:** [t.me/Coindisplayhub](https://t.me/Coindisplayhub)  
-**Business Inquiries:** proposal@coindisplayhub.com
+Next.js · TypeScript · PostgreSQL · TON Connect · Multi-chain wallet integration · PWA
+
+### Open Source
+
+**[Hackathon Security Framework](https://github.com/Coindisplayhub/hackathon-security-framework)** — Open standard for hackathon submission integrity. 10-point security checklist, EvidenceVault smart contract, forensic templates. CC BY 4.0.
+
+### Security
+
+See [SECURITY.md](SECURITY.md) for our responsible disclosure policy.
+
+### Contact
+
+**Website:** [coindisplayhub.com](https://www.coindisplayhub.com)
+**Twitter:** [@Coindisplayhub](https://x.com/Coindisplayhub)
+**Telegram:** [t.me/Coindisplayhub](https://t.me/Coindisplayhub)
+**Business inquiries:** proposal@coindisplayhub.com
 
 ---
 
 <div align="center">
-
-**[VISIT COINDISPLAYHUB.COM →](https://coindisplayhub.com)**
-
-*Professional cryptocurrency analysis since 2025*
-
+<sub>MIT License · Since 2025</sub>
 </div>
+
