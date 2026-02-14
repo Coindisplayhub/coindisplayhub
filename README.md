@@ -6,7 +6,7 @@
 
 **Premium cryptocurrency news and market intelligence**
 
-[coindisplayhub.com](https://www.coindisplayhub.com) · [@Coindisplayhub](https://x.com/Coindisplayhub) · [Telegram](https://t.me/Coindisplayhub)
+[coindisplayhub.com](https://www.coindisplayhub.com) · [X](https://x.com/Coindisplayhub) · [Telegram](https://t.me/Coindisplayhub)
 
 </div>
 
@@ -31,8 +31,8 @@ See [SECURITY.md](SECURITY.md) for our responsible disclosure policy.
 ### Contact
 
 **Website:** [coindisplayhub.com](https://www.coindisplayhub.com)
-**Twitter:** [@Coindisplayhub](https://x.com/Coindisplayhub)
-**Telegram:** [t.me/Coindisplayhub](https://t.me/Coindisplayhub)
+**X:** [Coindisplayhub](https://x.com/Coindisplayhub)
+**Telegram:** [Coindisplayhub](https://t.me/Coindisplayhub)
 **Business inquiries:** proposal@coindisplayhub.com
 
 ---
