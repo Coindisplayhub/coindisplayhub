@@ -1,6 +1,6 @@
 <div align="center">
 
-![COINDISPLAYHUB](https://pbs.twimg.com/profile_banners/1692388977926414336/1692340757/1500x500)
+![COINDISPLAYHUB](.github/banner.jpg)
 
 # COINDISPLAYHUB
 
@@ -30,7 +30,7 @@ Next.js · TypeScript · PostgreSQL · TON Connect · Multi-chain wallet integra
 
 ### Open Source
 
-**[Hackathon Security Framework](https://github.com/Coindisplayhub/hackathon-security-framework)** — Open standard for hackathon submission integrity. 10-point security checklist, EvidenceVault smart contract, forensic templates. CC BY 4.0.
+**[Hackathon Integrity Framework](https://github.com/Coindisplayhub/hackathon-integrity-framework)** — Open standard for hackathon submission integrity. 10-point security checklist, EvidenceVault smart contract, forensic templates. CC BY 4.0.
 
 ### Security
 
@@ -48,4 +48,3 @@ See [SECURITY.md](SECURITY.md) for our responsible disclosure policy.
 <div align="center">
 <sub>MIT License · Since 2025</sub>
 </div>
-
