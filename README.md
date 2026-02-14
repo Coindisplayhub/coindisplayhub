@@ -24,10 +24,6 @@ Institutional-grade cryptocurrency research and analysis, delivered in 14 langua
 - Regulatory developments and institutional adoption trends
 - Security audits and hackathon integrity research
 
-### Security
-
-See [SECURITY.md](SECURITY.md) for our responsible disclosure policy.
-
 ### Contact
 
 **Website:** [coindisplayhub.com](https://www.coindisplayhub.com)
